@@ -27,5 +27,7 @@ for e in dic_aval.keys():
         print(e ,round(dic_aval[e]*dic_dovom[e],2) )
     else:
         print(e,float(0*1))
+print("hello")
+
 
 
